@@ -1,0 +1,28 @@
+O básico do Java 
+
+1. Vamos fazer uma viagem ao passado. 
+O Java foi criado na década de 90. Vamos entender qual foi a motivação da criação da linguagem, 
+seus principais conceitos e características e qual sua importância para o desenvolvimento de software. 
+Faça, então, sua pesquisa e pontue seu entendimento sobre tudo isso.
+
+R: A Sun Microsystems no desenvolvimento do projeto *7 um controle universal possibilitando a interação 
+de diversos sistemas, automação residencial, controle de eletrodomesticos, video sob demanda e etc. 
+Para isso era necessário uma linguagem muito mais portável que o C++ inicial, onde embora fosse possível 
+era extremamente laborioso e lento.  Foi necessário resolver o problema criando uma lingua com essa 
+portabilidade, essa lingua foi GreenTalk que mais tarde se tornou Oak e depois Java. 
+O sistema era revolucionário e a visão da equipe, automação residencial, vídeo sob demanda e 
+unificação de sistemas é uma realidade hoje, mas ideia não vendeu. 
+Restou então a linguagem que fez enorme sucesso justamente por sua portabilidade. 
+	Java tem como princípios: 
+	Ser simples, orientada a objetos e familiar.
+	Ser robusta e segura.		
+	Ser portável e de arquitetura neutra.
+	Ser de alta performance.
+	Ser interpretada, dinâmica e ter suporte a encadeamento de execução (Thread).
+Java se consolidou como uma das linguagens mais importantes do mundo, por sua portabilidade e segurança, 
+milhões de desenvolvedores a utilizam e bilhões de dispositivos dependem dela em algum nível. 
+
+
+
+
+
