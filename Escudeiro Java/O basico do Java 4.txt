@@ -13,3 +13,6 @@ Garbage Collector que varre a pilha de execução para encontrar os objetos sem 
 loci de memória aos endereços disponiveis do heap de memória. 
 
 Exemplo de erro de OutOfMemoryError:
+
+
+https://www.devmedia.com.br/garbage-collection-entendendo-e-otimizando-parte-1/24082
