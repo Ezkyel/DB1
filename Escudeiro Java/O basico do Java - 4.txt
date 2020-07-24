@@ -10,9 +10,11 @@ r: Garbage Collectors são algoritmos de desalocação de memória, a MV control
 o programa vai utilizar. Quando um método que utiliza um objeto é finalizado, ocorre uma exceção ou 
 o número de referências a um determinado objeto cai a zero, esse objeto é passível de ser coletado pelo 
 Garbage Collector que varre a pilha de execução para encontrar os objetos sem referência e devolver o 
-loci de memória aos endereços disponiveis do heap de memória. 
+endereço de memória aos endereços disponiveis do heap de memória. 
 
 Exemplo de erro de OutOfMemoryError:
 
 
+
 https://www.devmedia.com.br/garbage-collection-entendendo-e-otimizando-parte-1/24082
+https://www.geeksforgeeks.org/understanding-outofmemoryerror-exception-java/
