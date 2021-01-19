@@ -27,3 +27,7 @@ O que é e em que momento da resolução da questão foi gerado o BYTECODE;
 r: O BYTECODE é gerado no momento da compilação. É um tipo intermediário de código entre o código. 
 A portabilidade da linguagem se dá pelo fato de que em qualquer sistema que tenha a sua versão da JVM 
 o BYTECODE pode gerar o programa desejado.
+
+
+Fontes:
+Livro: Java The Complete Reference Eleventh Edition - Herbert Schildt. Pgs 28, 29 e 30.
