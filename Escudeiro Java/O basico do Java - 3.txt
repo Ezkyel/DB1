@@ -30,4 +30,4 @@ o BYTECODE pode gerar o programa desejado.
 
 
 Fontes:
-Livro: Java The Complete Reference Eleventh Edition - Herbert Schildt. Pgs 28, 29 e 30.
+Livro: Java The Complete Reference Eleventh Edition - Herbert Schildt. Pgs 10, 28, 29 e 30.
