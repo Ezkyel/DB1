@@ -23,6 +23,7 @@ Java se consolidou como uma das linguagens mais importantes do mundo, por sua po
 milhões de desenvolvedores a utilizam e bilhões de dispositivos dependem dela em algum nível. 
 
 
-
-
+Fontes:
+Aulas 01 e 02 do curso em vídeo Java. https://www.youtube.com/watch?v=sTX0UEplF54
+Livro: Java The Complete Reference Eleventh Edition - Herbert Schildt. Pgs 3 a 8.
 
