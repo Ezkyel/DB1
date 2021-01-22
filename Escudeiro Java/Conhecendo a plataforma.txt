@@ -1,0 +1,22 @@
+1.1 - Diferença entre os tipos primitivos e as classes Wrapper;
+Tipos primitivos ocupam muito menos espaço na memória,são 
+adicionados ao stack se forem declarados como variáveis locais
+ou no heap se declarados como variáveis de instância, portanto 
+muito mais rápidos.
+As classes Wrapper criam objetos e métodos instanciados que
+representam e contém seus tipos primitivos, embora mais lentas 
+que os tipos primitivos os métodos disponíveis acabam facilitando 
+e extendendo muito as possibilidades de trabalho.
+
+1.2 - Quais são os tipos primitivos e suas classes Wrapper;
+int		Integer
+char		Character
+byte		Byte
+short		Short
+long		Long
+double 		Double
+boolean		Boolean
+float		Float
+
+1.3 - Qual o valor default de cada tipo primitivo e de cada classe Wrapper;
+int 
